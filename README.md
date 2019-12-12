@@ -2,7 +2,7 @@
 
 ## Visão geral
 
-A aplicação Portal Institucional de Gerenciamento de ACG (P.IN.G.A) é um sistema cujo o principal objetivo é o gerenciamento de ACGs. Ele foi desenvolvido pelos alunos de Engenharia de Software na disciplina de Resolução de Problemas VI. As principais funcionalidades são descritas nas seguintes histórias de usuário:
+A aplicação Portal Institucional de Gerenciamento de ACG (P.IN.G.A) é um sistema cujo o principal objetivo é o gerenciamento de Atividades complementares de Graduação (ACGs). Ele foi desenvolvido pelos alunos de Engenharia de Software na disciplina de Resolução de Problemas VI. As principais funcionalidades são descritas nas seguintes histórias de usuário:
 
 **História de Usuário**
 
